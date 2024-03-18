@@ -1,0 +1,23 @@
+.card {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 12px;
+  transition: 0.3s;
+}
+
+.card:hover {
+  margin-top: -10px;
+}
+
+.content {
+  padding: 10px;
+}
+
+.img {
+  border-radius: 12px 12px 0 0;
+}
+
+.badge {
+  top: 10px;
+  right: 20px;
+  font-size: 17px;
+}
